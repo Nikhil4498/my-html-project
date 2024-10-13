@@ -1,9 +1,0 @@
-server {
-    listen 80;
-    server_name 18.209.171.32;
-
-    location / {
-        root /home/ec2-user/html-project;
-        index index.html;
-    }
-}
