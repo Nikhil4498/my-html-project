@@ -5,7 +5,7 @@ import sys
 # GitHub repository details
 REPO_OWNER = 'Nikhil4498'
 REPO_NAME = 'my-html-project'
-GITHUB_API_URL = f'https://api.github.com/repos/Nikhil4498/my-html-project.git/commits'
+GITHUB_API_URL = f'https://api.github.com/repos/Nikhil4498/my-html-project/commits'
 
 # File to store the last commit SHA
 LAST_COMMIT_FILE = '/home/ec2-user/last_commit.txt'
